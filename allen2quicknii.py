@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 #
 # Copyright (c) 2016, 2017, Nesys Lab, Universitet i Oslo
-# Author: Gergely Csúsc, Christopher Coello
+# Author: Gergely Csúcs, Christopher Coello
 #
 # This software is made available under the MIT licence, see LICENCE.txt.
 

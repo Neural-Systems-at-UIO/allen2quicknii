@@ -10,15 +10,15 @@ This script has been tested with in-situ hybridization datasets and connectivity
 ## Usage
 In conda
 
-    python ants2quicknii.py <series identifier>
-    python ants2quicknii.py --get-orig <series identifier>
-    python ants2quicknii.py --target-dir /data/AMBA/datsets/ <series identifier>
+    python allen2quicknii.py <series identifier>
+    python allen2quicknii.py --get-orig <series identifier>
+    python allen2quicknii.py --target-dir /data/AMBA/datsets/ <series identifier>
 
 In iPython
 
-    run ants2quicknii.py <series identifier>
-    run ants2quicknii.py --get-orig <series identifier>
-    run ants2quicknii.py --target-dir /data/AMBA/datsets/ <series identifier>
+    run allen2quicknii.py <series identifier>
+    run allen2quicknii.py --get-orig <series identifier>
+    run allen2quicknii.py --target-dir /data/AMBA/datsets/ <series identifier>
 
 ## Arguments
 
